@@ -225,7 +225,13 @@ $ mv mon-fichier-a-renommer.txt mon-dossier/mon-dossier-2/encore-un-autre
 $ mv mon-fichier-a-renommer.txt mon-dossier/mon-dossier-2/fichier.md
 ```
 
-##
+## code
+
+ouvre vscode ou alors ouvre vscode dans un dossier ou un fichier
+
+```bash
+$ code [chemin_de_fichier_ou_dossier]
+```
 
 ## Raccourci clavier pour le terminal
 
